@@ -25,4 +25,5 @@ Selected color is applied to drawing strokes.
 Prerequisites
 Make sure you have Python 3 installed along with the following libraries:
 
+```bash
 pip install opencv-python mediapipe numpy
