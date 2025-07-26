@@ -1,4 +1,4 @@
-🎨 AI Virtual Painter
+#🎨 AI Virtual Painter
 AI Virtual Painter is a computer vision-based project that allows users to draw on the screen using only hand gestures — no touch input or mouse required! This interactive tool uses your webcam to track hand movements and interprets specific finger gestures to perform painting actions like selecting colors, clearing the canvas, and drawing.
 
 ✨ Features
