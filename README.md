@@ -27,6 +27,9 @@ AI Virtual Painter is a computer vision-based project that allows users to draw 
   - **Index + Middle Fingers Up** → Selection Mode
   - Special gestures for clearing canvas or color selection.
 - Selected color is applied to drawing strokes.
+- Save Drawing
+Press S on your keyboard to save your drawing as an image.
+
 
 ## 🚀 Getting Started
 
